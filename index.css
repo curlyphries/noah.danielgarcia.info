@@ -57,4 +57,11 @@ header a:hover {
     background:  #7e0eaa;
     color: white;
 }
-  
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
